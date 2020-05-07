@@ -1,2 +1,1 @@
-# PavelSolodkin.github.io
-My first project
+Демо https://pavelsolodkin.github.io/Learn-to-learn/
